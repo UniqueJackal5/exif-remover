@@ -11,6 +11,7 @@ A simple Python GUI tool to remove EXIF metadata from images. Helps protect your
 ## Installation
 
 Ensure you have python installed
+
 Install the required dependencies:
 
 ```bash
