@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/exif-remover.git
+   git clone https://github.com/UniqueJackal5/exif-remover.git
    cd exif-remover
    ```
 
